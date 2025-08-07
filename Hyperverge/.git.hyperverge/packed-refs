@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+1fe653ce1b93429706ef114d771154114d8fe26e refs/remotes/origin/batches
+21f37ccb60325880208e5c6e2e8f78f2f0140044 refs/remotes/origin/course_generation
+0a7fe8ad8e03d53d521c8e6095d46816917afa88 refs/remotes/origin/main
+b23bdf4108dd0e0e4284fba9850fd106ae935c94 refs/remotes/origin/question-title-error
+b23bdf4108dd0e0e4284fba9850fd106ae935c94 refs/remotes/origin/question-title-validation
+b14f8b912724868804e426623d5df8c80dc36a58 refs/remotes/origin/scorecard-add-pass-score
+e88f476052131103f2e6717076a9329644b3895c refs/remotes/origin/test-mr
